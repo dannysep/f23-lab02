@@ -8,6 +8,7 @@ public class Main {
 
         Renderer renderer = new Renderer(rectangle);
 
+        
         renderer.draw();
     }
 }

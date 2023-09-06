@@ -4,4 +4,5 @@ import { Shape } from "./shapes/shape.js";
 
 const rectangle: Shape = newRectangle(2, 3)
 const renderer = newRenderer(rectangle)
+
 renderer.draw();
